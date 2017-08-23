@@ -1,0 +1,3 @@
+[submodule "xcb-util-xrm"]
+	path = xcb-util-xrm
+	url = ./xcb-util-xrm/
